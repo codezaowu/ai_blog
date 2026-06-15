@@ -1,0 +1,8 @@
+baseURL = 'https://codezaowu.github.io/ai_blog/'
+defaultContentLanguage = 'zh-cn'
+title = 'AI Blog'
+theme = 'DoIt'
+
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
