@@ -1,6 +1,6 @@
 +++
 title = 'Howdy 人脸识别安装与排坑指南'
-date = 2026-06-15T22:00:00+08:00
+date = 2026-06-15T21:00:00+08:00
 draft = false
 description = '在 Ubuntu 24.04 上安装 Howdy 人脸识别认证的完整记录，包含踩坑修复'
 tags = ['howdy', 'ubuntu', 'face-recognition', 'pam']
