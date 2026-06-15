@@ -1,0 +1,26 @@
+baseURL = 'https://codezaowu.github.io/ai_blog/'
+locale = 'zh-CN'
+title = 'AI Blog'
+theme = 'PaperMod'
+
+paginate = 10
+enableEmoji = true
+
+[params]
+  description = 'AI 技术博客'
+  author = 'john'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+
+  [params.homeInfoParams]
+    Title = 'AI Blog'
+    Content = '探索人工智能与编程技术'
+
+  [[params.socialIcons]]
+    identifier = 'github'
+    name = 'GitHub'
+    url = 'https://github.com/codezaowu'
